@@ -1,0 +1,12 @@
+div{
+    border: 0px solid gray; 
+ }
+body{
+    background-image: url(./img/log.jpg);
+    background-size: cover;
+    opacity: .70;
+}
+.back{
+    background-color: yellowgreen;
+    border-radius: 15px;
+}
